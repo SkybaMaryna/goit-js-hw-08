@@ -1,1 +1,0 @@
-{"mappings":"AACe,IAAIA,MAAMC,OAAO,iBAEzBC,GAAG,QAAQ,WACVC,QAAQC,IAAI,oB","sources":["src/js/02-video.js"],"sourcesContent":["\nconst player = new Vimeo.Player('#vimeo-player');\n\nplayer.on('play', function() {\n        console.log('played the video!');\n    });\n"],"names":["Vimeo","Player","on","console","log"],"version":3,"file":"02-video.8e465e56.js.map"}
